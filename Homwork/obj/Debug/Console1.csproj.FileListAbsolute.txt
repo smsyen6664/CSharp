@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\bin\Debug\Homwork.exe.config
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\bin\Debug\Homwork.exe
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\bin\Debug\Homwork.pdb
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\obj\Debug\Console1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\obj\Debug\Console1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\obj\Debug\Homwork.exe
+C:\Users\admin\source\repos\ConsoleApp1\Homwork\obj\Debug\Homwork.pdb
